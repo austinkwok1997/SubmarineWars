@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="SubmarineWars" targetName="SubmarineWars" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="201e7b27-93c5-416e-8a9c-f8afba2ff717" name="Default Changelist" comment="Project: Supports Visual Studio / CLion with VS Toolchain and FreeType library on Windows now.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/SaveData.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/SaveData.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Player.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Player.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EntityManager.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/EntityManager.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StageController.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/StageController.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Systems/CollisionSystem.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Systems/CollisionSystem.cpp" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1Ra6Mwm304Guh2GPAR82zPBSO8J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\david\Desktop\427 Submarine Wars\submarine_wars\SubmarineWars\src\Entities\StoreIcons" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="SubmarineWars" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SubmarineWars" TARGET_NAME="SubmarineWars" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SubmarineWars" RUN_TARGET_NAME="SubmarineWars">
+      <envs>
+        <env name="LIBGL_ALWAYS_INDIRECT" value="0" />
+      </envs>
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="201e7b27-93c5-416e-8a9c-f8afba2ff717" name="Default Changelist" comment="" />
+      <created>1569892816466</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569892816466</updated>
+      <workItem from="1569892820297" duration="5000" />
+      <workItem from="1569892841608" duration="81000" />
+      <workItem from="1569892955817" duration="1859000" />
+      <workItem from="1569963361102" duration="2366000" />
+      <workItem from="1570004736124" duration="14732000" />
+      <workItem from="1570148191999" duration="16085000" />
+      <workItem from="1570217888571" duration="137000" />
+      <workItem from="1570220220162" duration="6107000" />
+      <workItem from="1570226354248" duration="22000" />
+      <workItem from="1570226388144" duration="941000" />
+      <workItem from="1571383784495" duration="622000" />
+      <workItem from="1571384746507" duration="568000" />
+      <workItem from="1571385356414" duration="114000" />
+      <workItem from="1571385515218" duration="3801000" />
+      <workItem from="1571430912256" duration="1356000" />
+      <workItem from="1571458163562" duration="5762000" />
+      <workItem from="1571464123665" duration="2268000" />
+      <workItem from="1572925971206" duration="112000" />
+      <workItem from="1572913198145" duration="855000" />
+      <workItem from="1572976677539" duration="193000" />
+      <workItem from="1572977054370" duration="1076000" />
+      <workItem from="1573082255585" duration="197000" />
+      <workItem from="1573087140426" duration="158000" />
+      <workItem from="1573087356196" duration="783000" />
+      <workItem from="1573690091447" duration="1500000" />
+      <workItem from="1574634205573" duration="48936000" />
+      <workItem from="1575333287576" duration="68848000" />
+      <workItem from="1575675041989" duration="20476000" />
+      <workItem from="1575788948203" duration="605000" />
+      <workItem from="1575852101559" duration="11751000" />
+      <workItem from="1576032253957" duration="798000" />
+      <workItem from="1576258139034" duration="7853000" />
+    </task>
+    <task id="LOCAL-00001" summary="Project: Supports Visual Studio / CLion with VS Toolchain and FreeType library on Windows now.">
+      <created>1572914034708</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572914034708</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Project: Supports Visual Studio / CLion with VS Toolchain and FreeType library on Windows now." />
+    <option name="LAST_COMMIT_MESSAGE" value="Project: Supports Visual Studio / CLion with VS Toolchain and FreeType library on Windows now." />
+  </component>
+</project>

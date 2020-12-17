@@ -1,0 +1,26 @@
+//
+//  ProjectPath.hpp
+//  SubmarineWars
+//
+//  Created by FireWolf on 2019-09-28.
+//  Copyright © 2019 FireWolf. All rights reserved.
+//
+
+#ifndef ProjectPath_h
+#define ProjectPath_h
+
+#pragma once
+
+// Please don't change the content of this header
+
+#cmakedefine SW_PROJECT_SOURCE_DIR   "/Volumes/Mac Data/IAMUBC/CPSC427/SubmarineWars/SubmarineWars"
+
+#define SWShaderPath(name)      SW_PROJECT_SOURCE_DIR "./shaders/" name
+
+#define SWDataPath              SW_PROJECT_SOURCE_DIR "./data"
+#define SWTexturesPath(name)    SWDataPath "/textures/" name
+#define SWAudioPath(name)       SWDataPath "/audio/" name
+#define SWMeshPath(name)        SWDataPath "/meshes/" name
+#define SWFontPath(name)        SWDataPath "/fonts/" name
+
+#endif /* ProjectPath_h */
